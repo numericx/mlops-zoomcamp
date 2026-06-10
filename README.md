@@ -60,17 +60,27 @@ To get the most out of this course, you should have prior experience with:
 
 ## How to Take the Course
 
-### Live Cohort
+There are two ways to follow the course: live and self-paced.
 
-We don't plan to run a live cohort in 2026. [Register here](https://airtable.com/shrCb8y6eTbPKwSTL) if you'd like to receive updates in case we decide to run the course again.
+| | Live Cohort | Self-Paced |
+|-|-|-|
+| Start | Not currently scheduled | Anytime |
+| Lectures | Pre-recorded | Pre-recorded |
+| Homework | Graded | Available but not scored |
+| Leaderboard | ✅ Yes | ❌ No |
+| Peer Review | ✅ Yes | ❌ No |
+| Certificate | ✅ Yes | ❌ No |
+| Cost | Free | Free |
+| Register | [Get updates](https://airtable.com/shrCb8y6eTbPKwSTL) | Just start learning! |
 
-### Self-Paced
+> [!NOTE]
+> We don't plan to run a live cohort in 2026. The course is fully available for self-paced study now. [Register here](https://airtable.com/shrCb8y6eTbPKwSTL) to be notified if we run a live cohort again.
 
-All course materials are freely available for independent study:
+Self-paced steps:
 
-1. Watch the course videos.
-2. Join the [Slack community](https://datatalks.club/slack.html).
-3. Refer to the [FAQ document](https://datatalks.club/faq/mlops-zoomcamp.html) for guidance.
+1. Follow the materials on [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp)
+2. Ask questions and share progress in [Slack](https://datatalks.club/slack.html)
+3. Do the homework (self-checked) and build a project for your portfolio
 
 ## Syllabus
 
