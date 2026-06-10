@@ -167,6 +167,22 @@ Share your progress as you go — see the [learning in public guide](learning-in
 
 Interested in supporting our community? Reach out to [alexey@datatalks.club](mailto:alexey@datatalks.club).
 
+## FAQ
+
+A few common questions. For everything else, see the full [MLOps Zoomcamp FAQ](https://datatalks.club/faq/mlops-zoomcamp.html).
+
+Q: Is this course really free?<br/>
+A: Yes. All videos, materials, and homework are free and open-source.
+
+Q: Do I need prior experience?<br/>
+A: Yes, some. You should know Python, Docker basics, and the machine learning workflow (for example from ML Zoomcamp), plus about a year of programming experience.
+
+Q: Is there a live cohort?<br/>
+A: Not currently. The course is fully available for self-paced study. Register on the signup form to be notified if we run a live cohort again.
+
+Q: What does "live cohort" mean? Are there live classes?<br/>
+A: No mandatory live classes. All lectures are pre-recorded. "Live" means deadlines, scored homework, peer review, and certificate eligibility.
+
 ## About DataTalks.Club
 
 <p align="center">
