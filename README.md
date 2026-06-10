@@ -163,7 +163,7 @@ To keep discussions organized:
 
 Share your progress as you go — see the [learning in public guide](learning-in-public.md).
 
-## Sponsors & Supporters
+## Sponsors
 
 Interested in supporting our community? Reach out to [alexey@datatalks.club](mailto:alexey@datatalks.club).
 
